@@ -1,29 +1,86 @@
-Technical Business Analyst Assessment
-Project Overview
-This repository contains solutions for the Technical Business Analyst Assessment focusing on SQL case studies and API development tasks. The solutions demonstrate practical problem-solving, optimization, and structured thinking aligned with business analysis requirements.
+📊 Technical Business Analyst Assessment
 
-Technology Stack
-Database: PostgreSQL (SQL queries and schema design)
+🚀 Project Overview
+This repository contains solutions for the Technical Business Analyst Assessment, focusing on SQL case studies and API development tasks. The solutions demonstrate practical problem-solving, optimization techniques, and structured analytical thinking aligned with business analysis requirements.
 
-API Framework: Swagger (OpenAPI 3.0 specification)
+---
 
-Languages: SQL, YAML
+🛠️ Technology Stack
+🗄️ Database:PostgreSQL (SQL queries and schema design)
+🌐 API Framework:Swagger (OpenAPI 3.0 Specification)
+💻 Languages: SQL, YAML
+🔄 Version Control:** GitHub repository for code and documentation
 
-Version Control: GitHub repository for code and documentation
+---
 
-Setup Instructions
-Cloned the repository: https://github.com/Yolisaq/Linkfields-Tech.git 
+⚙️ Setup Instructions
+📥 Clone the Repository
 
-Navigate to the project folder:
+```bash
+git clone https://github.com/Yolisaq/Linkfields-Tech.git
+```
+
+📂 Navigate to the Project Folder
+
+```bash
 cd Linkfields-Tech
-Review SQL scripts in /sql folder and API specifications in /api.
+```
+🔍 Review Project Components
+📑 SQL scripts located in the `/sql` folder
+🌐 API specifications located in the `/api` folder
 
-Use SwaggerHub link for API auto-mocking:
-SwaggerHub Mock Server (virtserver.swaggerhub.com in Bing)
+🧪 API Testing & Mocking
 
-Deliverables
-SQL Case Studies: Optimized queries for revenue reporting, churn prediction, and upsell opportunities.
+Use the SwaggerHub Mock Server for API testing and simulation:
 
-API Case Studies: User management API with validation, error handling, and database integration.
+🔗 SwaggerHub Mock Server (`virtserver.swaggerhub.com`)
 
-Repository: GitHub – Linkfields-Tech (github.com in Bing)
+---
+
+📦 Deliverables
+
+🗃️ SQL Case Studies
+
+Optimized SQL solutions covering:
+💰 Revenue Reporting
+📉 Customer Churn Prediction
+📈 Upsell Opportunity Identification
+
+🌐 API Case Studies
+
+User Management API featuring:
+
+✅ Input Validation
+⚠️ Error Handling
+🔗 Database Integration
+📋 RESTful API Design Principles
+
+📁 Repository
+
+🐙 GitHub Repository: Linkfields-Tech
+📚 Includes source code, SQL scripts, API specifications, and supporting documentation
+
+---
+
+🎯 Key Skills Demonstrated
+📊 Data Analysis & Reporting
+🧠 Business Requirements Interpretation
+🗄️ SQL Query Optimization
+🌐 API Design & Documentation
+🔍 Data Validation & Error Handling
+🤝 Technical Business Analysis
+📈 Problem Solving & Decision Support
+
+---
+
+👨‍💻 Author
+Yolisa Qadi
+
+📧 Open to opportunities in:
+💼 Business Analysis
+📊 Data Analysis
+🖥️ Systems Analysis
+🔗 API & Integration Projects
+🚀 Digital Transformation Initiatives
+
+⭐ Thank you for reviewing this assessment!
